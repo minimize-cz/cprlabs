@@ -1,1 +1,46 @@
+name: Generate Google Booking Feed
 
+"on":
+  # Запускается каждую ночь в 3:00 UTC (23:00 ET)
+  schedule:
+    - cron: "0 3 * * *"
+
+  # Также можно запустить вручную из GitHub → Actions → Run workflow
+  workflow_dispatch:
+
+permissions:
+  contents: write   # нужно для коммита feed.xml обратно в репозиторий
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate feed.xml
+        env:
+          ACUITY_USER_ID:       ${{ secrets.ACUITY_USER_ID }}
+          ACUITY_API_KEY:       ${{ secrets.ACUITY_API_KEY }}
+          ACUITY_OWNER_ID:      ${{ secrets.ACUITY_OWNER_ID }}
+          GOOGLE_MERCHANT_ID:   ${{ secrets.GOOGLE_MERCHANT_ID }}
+          GOOGLE_AGGREGATOR_ID: ${{ secrets.GOOGLE_AGGREGATOR_ID }}
+        run: python feed_auto.py
+
+      - name: Commit and push feed.xml
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          # Коммитим только если файл изменился
+          git diff --cached --quiet || git commit -m "Update Google booking feed [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
