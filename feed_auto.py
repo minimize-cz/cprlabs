@@ -74,13 +74,21 @@ OUTPUT_FILE = "feed.xml"
 # The keys must exactly match your Acuity appointment type names.
 # Add/remove entries to match your actual Acuity appointment types.
 SERVICE_ID_MAP = {
-    "BLS/CPR for Adults":            "cpr-bls-adult",
-    "BLS for Healthcare Providers":  "cpr-bls-healthcare",
-    "CPR + AED Combo":               "cpr-aed-combo",
-    "First Aid + CPR + AED":         "first-aid-cpr-aed",
-    "Heartsaver First Aid CPR AED":  "heartsaver-firstaid",
-    # Add more entries if you have other appointment types in Acuity:
-    # "Your Acuity Type Name": "google-service-id",
+    "BLS HeartCode Complete":                       "bls-heartcode-complete",
+    "BLS HeartCode Complete for Intelvio Students": "bls-heartcode-intelvio",
+    "BLS HeartCode Skills Only":                    "bls-heartcode-skills",
+    "ACLS HeartCode Complete":                      "acls-heartcode-complete",
+    "ACLS HeartCode Skills Only":                   "acls-heartcode-skills",
+    "PALS HeartCode Complete":                      "pals-heartcode-complete",
+    "PALS HeartCode Skills Only":                   "pals-heartcode-skills",
+    "BLS & PALS HeartCode Complete Combo":          "bls-pals-complete-combo",
+    "BLS & PALS HeartCode Skills Only":             "bls-pals-skills-combo",
+    "ACLS & BLS HeartCode Complete Combo":          "acls-bls-complete-combo",
+    "ACLS & BLS HeartCode Skills Only":             "acls-bls-skills-combo",
+    "ACLS & PALS HeartCode Complete Combo":         "acls-pals-complete-combo",
+    "ACLS & PALS HeartCode Skills Only":            "acls-pals-skills-combo",
+    "BLS, PALS, & ACLS HeartCode Complete Bundle":  "bls-pals-acls-complete-bundle",
+    "BLS, PALS, & ACLS HeartCode Skills Only":      "bls-pals-acls-skills-bundle",
 }
 
 # =============================================================================
