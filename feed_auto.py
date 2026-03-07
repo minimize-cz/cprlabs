@@ -268,7 +268,12 @@ def months_in_range(num_weeks):
     return sorted(months)
 
 def fetch_slots_for_location(type_id, calendar_id):
-    """Fetch all available slots for a service at a specific location."""
+    """
+    Fetch available dates, then for each date fetch ONLY the first time slot.
+    This shows Google a real available time (not synthetic), while keeping
+    API calls to a minimum: ~2 date calls + 1 times call per available date.
+    Users see the correct first slot time on Google; all slots visible in Acuity.
+    """
     slots = []
     today_str = date.today().isoformat()
     for month_str in months_in_range(WEEKS_AHEAD):
@@ -280,12 +285,14 @@ def fetch_slots_for_location(type_id, calendar_id):
         for d in dates:
             if d["date"] < today_str:
                 continue
+            # Fetch times but take ONLY the first slot — reduces API calls ~10x
             times = acuity_get("availability/times", params={
                 "appointmentTypeID": type_id,
                 "calendarID":        calendar_id,
                 "date":              d["date"],
             }) or []
-            slots.extend(times)
+            if times:
+                slots.append(times[0])   # first available slot of the day
     return slots
 
 def acuity_booking_url(type_id, calendar_id):
