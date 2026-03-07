@@ -269,10 +269,15 @@ def months_in_range(num_weeks):
 
 def fetch_slots_for_location(type_id, calendar_id):
     """
-    Fetch available dates, then for each date fetch ONLY the first time slot.
-    This shows Google a real available time (not synthetic), while keeping
-    API calls to a minimum: ~2 date calls + 1 times call per available date.
-    Users see the correct first slot time on Google; all slots visible in Acuity.
+    Fetch only available DATES — no individual time slots.
+
+    Why: The feed is generated once per day, but bookings happen in real-time.
+    Showing specific times would cause race conditions (two users see the same
+    slot, both try to book it). Instead we show one synthetic marker per date
+    (9:00 AM) to signal availability. The user lands in Acuity and picks a
+    real slot with live availability — no double-booking risk.
+
+    API calls: 12 locations × 7 services × 2 months = ~168 total. Fast.
     """
     slots = []
     today_str = date.today().isoformat()
@@ -285,14 +290,11 @@ def fetch_slots_for_location(type_id, calendar_id):
         for d in dates:
             if d["date"] < today_str:
                 continue
-            # Fetch times but take ONLY the first slot — reduces API calls ~10x
-            times = acuity_get("availability/times", params={
-                "appointmentTypeID": type_id,
-                "calendarID":        calendar_id,
-                "date":              d["date"],
-            }) or []
-            if times:
-                slots.append(times[0])   # first available slot of the day
+            # One marker slot per available date — real slots shown in Acuity
+            slots.append({
+                "time":           f"{d['date']}T09:00:00-0500",
+                "slotsAvailable": 1,
+            })
     return slots
 
 def acuity_booking_url(type_id, calendar_id):
