@@ -166,6 +166,12 @@ LOCATIONS = [
 
 # =============================================================================
 # SERVICES — maps Acuity appointment type names → Google service IDs + type IDs
+#
+# COMPLIANCE NOTES (Google Appointments Redirect Policy):
+# - "display_name": shown to users on Google — clear, properly capitalized, no ALL CAPS
+# - "description":  must be descriptive and accurate; no URLs, emails, phone numbers,
+#                   promotional language, or payment method info
+# - "display_name" and "description" override whatever is in Acuity
 # Type IDs extracted from your Acuity booking URLs (the number after /appointment/)
 # =============================================================================
 SERVICES = [
@@ -173,36 +179,50 @@ SERVICES = [
         "service_id":      "bls-heartcode-complete",
         "acuity_name":     "BLS HeartCode Complete",
         "acuity_type_id":  "78548657",
+        "display_name":    "BLS HeartCode Complete",
+        "description":     "Basic Life Support certification course covering adult, child, and infant CPR, AED use, and relief of choking. Designed for healthcare professionals and students. Certification card issued upon successful completion.",
     },
     {
         "service_id":      "acls-heartcode-complete",
         "acuity_name":     "ACLS HeartCode Complete",
         "acuity_type_id":  "78755223",
+        "display_name":    "ACLS HeartCode Complete",
+        "description":     "Advanced Cardiovascular Life Support certification course for healthcare providers. Covers recognition and management of cardiac arrest, acute arrhythmias, stroke, and other cardiovascular emergencies.",
     },
     {
         "service_id":      "pals-heartcode-complete",
         "acuity_name":     "PALS HeartCode Complete",
         "acuity_type_id":  "78547910",
+        "display_name":    "PALS HeartCode Complete",
+        "description":     "Pediatric Advanced Life Support certification course for healthcare providers who respond to emergencies in infants and children. Covers systematic approach to pediatric assessment and resuscitation.",
     },
     {
         "service_id":      "acls-bls-complete-combo",
         "acuity_name":     "ACLS & BLS HeartCode Complete Combo",
         "acuity_type_id":  "78757249",
+        "display_name":    "ACLS and BLS HeartCode Complete Combo",
+        "description":     "Combined certification course covering both Basic Life Support and Advanced Cardiovascular Life Support. Ideal for healthcare providers who need both certifications.",
     },
     {
         "service_id":      "bls-pals-complete-combo",
         "acuity_name":     "BLS & PALS HeartCode Complete Combo",
         "acuity_type_id":  "78757690",
+        "display_name":    "BLS and PALS HeartCode Complete Combo",
+        "description":     "Combined certification course covering Basic Life Support and Pediatric Advanced Life Support. Designed for healthcare providers who work with both adult and pediatric patients.",
     },
     {
         "service_id":      "acls-pals-complete-combo",
         "acuity_name":     "ACLS & PALS HeartCode Complete Combo",
         "acuity_type_id":  "78757576",
+        "display_name":    "ACLS and PALS HeartCode Complete Combo",
+        "description":     "Combined certification course covering Advanced Cardiovascular Life Support and Pediatric Advanced Life Support for healthcare providers managing both adult and pediatric emergencies.",
     },
     {
         "service_id":      "bls-pals-acls-complete-bundle",
         "acuity_name":     "BLS, PALS, & ACLS HeartCode Complete Bundle",
         "acuity_type_id":  "78757818",
+        "display_name":    "BLS, PALS, and ACLS HeartCode Complete Bundle",
+        "description":     "Comprehensive certification bundle covering Basic Life Support, Pediatric Advanced Life Support, and Advanced Cardiovascular Life Support. Complete all three certifications in one enrollment.",
     },
 ]
 
@@ -327,8 +347,10 @@ def build_feed(all_data):
         svc_el = ET.SubElement(root, "Service")
         ET.SubElement(svc_el, "merchant_id").text = loc["merchant_id"]
         ET.SubElement(svc_el, "service_id").text  = svc["service_id"]
-        ET.SubElement(svc_el, "name").text        = apt.get("name", svc["acuity_name"])
-        ET.SubElement(svc_el, "description").text = apt.get("description") or apt.get("name", svc["acuity_name"])
+        # Use our own display_name and description (not Acuity's) for policy compliance.
+        # Google policy: no URLs, emails, phones, promo content, or payment info in these fields.
+        ET.SubElement(svc_el, "name").text        = svc.get("display_name", svc["acuity_name"])
+        ET.SubElement(svc_el, "description").text = svc.get("description", svc["acuity_name"])
 
         price = float(apt.get("price", "0") or 0)
         p = ET.SubElement(svc_el, "price")
@@ -340,9 +362,11 @@ def build_feed(all_data):
         h, m_ = divmod(duration, 60)
         ET.SubElement(svc_el, "duration").text = f"PT{h}H{m_}M" if m_ else f"PT{h}H"
 
+        # action_link points to Webflow /book page — NOT directly to Acuity.
+        # Google appends ?merchant_id=X&service_id=Y&start_time=Z to this URL.
+        # The Webflow /book page JavaScript reads those params and redirects to Acuity.
         action = ET.SubElement(svc_el, "action_link")
-        ET.SubElement(action, "url").text = acuity_booking_url(
-            svc["acuity_type_id"], loc["calendar_id"])
+        ET.SubElement(action, "url").text = "https://www.cprcertificationlabs.com/book"
 
         # Availability
         if not slots:
