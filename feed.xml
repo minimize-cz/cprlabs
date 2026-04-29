@@ -259,12 +259,6 @@
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -661,12 +655,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -1065,12 +1053,6 @@
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -1467,12 +1449,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -1871,12 +1847,6 @@
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -2274,12 +2244,6 @@
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -2676,12 +2640,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -3080,12 +3038,6 @@
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -3482,12 +3434,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -3886,12 +3832,6 @@
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -4288,12 +4228,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -4692,12 +4626,6 @@
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -5095,12 +5023,6 @@
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -5497,12 +5419,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -5901,12 +5817,6 @@
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -6303,12 +6213,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -6707,12 +6611,6 @@
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -7109,12 +7007,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -7513,12 +7405,6 @@
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -7916,12 +7802,6 @@
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -8318,12 +8198,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -8722,12 +8596,6 @@
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -9124,12 +8992,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -9528,12 +9390,6 @@
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -9930,12 +9786,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -10334,12 +10184,6 @@
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -10737,12 +10581,6 @@
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -11139,12 +10977,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -11543,12 +11375,6 @@
     <merchant_id>cprlabs-rockwall</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -11837,12 +11663,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-rockwall</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -12133,12 +11953,6 @@
     <merchant_id>cprlabs-rockwall</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -12428,12 +12242,6 @@
     <merchant_id>cprlabs-rockwall</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -12716,12 +12524,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-rockwall</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -13006,12 +12808,6 @@
     <merchant_id>cprlabs-rockwall</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -13294,12 +13090,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-rockwall</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -13584,12 +13374,6 @@
     <merchant_id>cprlabs-midland</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -13878,12 +13662,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-midland</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -14174,12 +13952,6 @@
     <merchant_id>cprlabs-midland</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -14468,12 +14240,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-midland</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -14764,12 +14530,6 @@
     <merchant_id>cprlabs-midland</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -15059,12 +14819,6 @@
     <merchant_id>cprlabs-midland</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -15353,12 +15107,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-midland</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -15649,12 +15397,6 @@
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -16051,12 +15793,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -16455,12 +16191,6 @@
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -16857,12 +16587,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -17261,12 +16985,6 @@
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -17664,12 +17382,6 @@
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -18066,12 +17778,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -18470,12 +18176,6 @@
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -18872,12 +18572,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -19276,12 +18970,6 @@
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -19678,12 +19366,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -20082,12 +19764,6 @@
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -20485,12 +20161,6 @@
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -20887,12 +20557,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -21291,12 +20955,6 @@
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -21693,12 +21351,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -22097,12 +21749,6 @@
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -22499,12 +22145,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -22903,12 +22543,6 @@
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -23306,12 +22940,6 @@
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -23708,12 +23336,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -24112,12 +23734,6 @@
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -24514,12 +24130,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -24918,12 +24528,6 @@
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -25320,12 +24924,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -25724,12 +25322,6 @@
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -26127,12 +25719,6 @@
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -26529,12 +26115,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -26933,12 +26513,6 @@
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -27335,12 +26909,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -27739,12 +27307,6 @@
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -28141,12 +27703,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -28545,12 +28101,6 @@
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -28948,12 +28498,6 @@
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -29350,12 +28894,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
@@ -29754,12 +29292,6 @@
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -30156,12 +29688,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
@@ -30560,12 +30086,6 @@
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -30962,12 +30482,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
@@ -31366,12 +30880,6 @@
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -31769,12 +31277,6 @@
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -32171,12 +31673,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-04-28T09:00:00-05:00</start_time>
-      <end_time>2026-04-28T12:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-04-29T09:00:00-05:00</start_time>
       <end_time>2026-04-29T12:00:00-05:00</end_time>
