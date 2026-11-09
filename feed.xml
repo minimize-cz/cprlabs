@@ -259,12 +259,6 @@
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -781,12 +775,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -1305,12 +1293,6 @@
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -1827,12 +1809,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -2351,12 +2327,6 @@
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -2874,12 +2844,6 @@
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -3396,12 +3360,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-bryan</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -3920,186 +3878,6 @@
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-12-01T09:00:00-05:00</start_time>
-      <end_time>2026-12-01T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-02T09:00:00-05:00</start_time>
-      <end_time>2026-12-02T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-03T09:00:00-05:00</start_time>
-      <end_time>2026-12-03T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-04T09:00:00-05:00</start_time>
-      <end_time>2026-12-04T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-05T09:00:00-05:00</start_time>
-      <end_time>2026-12-05T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-06T09:00:00-05:00</start_time>
-      <end_time>2026-12-06T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-07T09:00:00-05:00</start_time>
-      <end_time>2026-12-07T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-08T09:00:00-05:00</start_time>
-      <end_time>2026-12-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-09T09:00:00-05:00</start_time>
-      <end_time>2026-12-09T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-10T09:00:00-05:00</start_time>
-      <end_time>2026-12-10T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-11T09:00:00-05:00</start_time>
-      <end_time>2026-12-11T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-12T09:00:00-05:00</start_time>
-      <end_time>2026-12-12T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-13T09:00:00-05:00</start_time>
-      <end_time>2026-12-13T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-14T09:00:00-05:00</start_time>
-      <end_time>2026-12-14T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-15T09:00:00-05:00</start_time>
-      <end_time>2026-12-15T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-16T09:00:00-05:00</start_time>
-      <end_time>2026-12-16T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-17T09:00:00-05:00</start_time>
-      <end_time>2026-12-17T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-18T09:00:00-05:00</start_time>
-      <end_time>2026-12-18T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-19T09:00:00-05:00</start_time>
-      <end_time>2026-12-19T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-20T09:00:00-05:00</start_time>
-      <end_time>2026-12-20T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-21T09:00:00-05:00</start_time>
-      <end_time>2026-12-21T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-22T09:00:00-05:00</start_time>
-      <end_time>2026-12-22T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-23T09:00:00-05:00</start_time>
-      <end_time>2026-12-23T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-24T09:00:00-05:00</start_time>
-      <end_time>2026-12-24T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-26T09:00:00-05:00</start_time>
-      <end_time>2026-12-26T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-27T09:00:00-05:00</start_time>
-      <end_time>2026-12-27T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-28T09:00:00-05:00</start_time>
-      <end_time>2026-12-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-29T09:00:00-05:00</start_time>
-      <end_time>2026-12-29T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-30T09:00:00-05:00</start_time>
-      <end_time>2026-12-30T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-31T09:00:00-05:00</start_time>
-      <end_time>2026-12-31T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2027-01-01T09:00:00-05:00</start_time>
       <end_time>2027-01-01T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -4304,186 +4082,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-12-01T09:00:00-05:00</start_time>
-      <end_time>2026-12-01T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-02T09:00:00-05:00</start_time>
-      <end_time>2026-12-02T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-03T09:00:00-05:00</start_time>
-      <end_time>2026-12-03T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-04T09:00:00-05:00</start_time>
-      <end_time>2026-12-04T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-05T09:00:00-05:00</start_time>
-      <end_time>2026-12-05T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-06T09:00:00-05:00</start_time>
-      <end_time>2026-12-06T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-07T09:00:00-05:00</start_time>
-      <end_time>2026-12-07T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-08T09:00:00-05:00</start_time>
-      <end_time>2026-12-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-09T09:00:00-05:00</start_time>
-      <end_time>2026-12-09T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-10T09:00:00-05:00</start_time>
-      <end_time>2026-12-10T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-11T09:00:00-05:00</start_time>
-      <end_time>2026-12-11T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-12T09:00:00-05:00</start_time>
-      <end_time>2026-12-12T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-13T09:00:00-05:00</start_time>
-      <end_time>2026-12-13T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-14T09:00:00-05:00</start_time>
-      <end_time>2026-12-14T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-15T09:00:00-05:00</start_time>
-      <end_time>2026-12-15T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-16T09:00:00-05:00</start_time>
-      <end_time>2026-12-16T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-17T09:00:00-05:00</start_time>
-      <end_time>2026-12-17T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-18T09:00:00-05:00</start_time>
-      <end_time>2026-12-18T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-19T09:00:00-05:00</start_time>
-      <end_time>2026-12-19T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-20T09:00:00-05:00</start_time>
-      <end_time>2026-12-20T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-21T09:00:00-05:00</start_time>
-      <end_time>2026-12-21T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-22T09:00:00-05:00</start_time>
-      <end_time>2026-12-22T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-23T09:00:00-05:00</start_time>
-      <end_time>2026-12-23T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-24T09:00:00-05:00</start_time>
-      <end_time>2026-12-24T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-26T09:00:00-05:00</start_time>
-      <end_time>2026-12-26T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-27T09:00:00-05:00</start_time>
-      <end_time>2026-12-27T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-28T09:00:00-05:00</start_time>
-      <end_time>2026-12-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-29T09:00:00-05:00</start_time>
-      <end_time>2026-12-29T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-30T09:00:00-05:00</start_time>
-      <end_time>2026-12-30T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-31T09:00:00-05:00</start_time>
-      <end_time>2026-12-31T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2027-01-01T09:00:00-05:00</start_time>
       <end_time>2027-01-01T10:00:00-05:00</end_time>
@@ -4690,186 +4288,6 @@
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-12-01T09:00:00-05:00</start_time>
-      <end_time>2026-12-01T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-02T09:00:00-05:00</start_time>
-      <end_time>2026-12-02T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-03T09:00:00-05:00</start_time>
-      <end_time>2026-12-03T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-04T09:00:00-05:00</start_time>
-      <end_time>2026-12-04T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-05T09:00:00-05:00</start_time>
-      <end_time>2026-12-05T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-06T09:00:00-05:00</start_time>
-      <end_time>2026-12-06T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-07T09:00:00-05:00</start_time>
-      <end_time>2026-12-07T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-08T09:00:00-05:00</start_time>
-      <end_time>2026-12-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-09T09:00:00-05:00</start_time>
-      <end_time>2026-12-09T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-10T09:00:00-05:00</start_time>
-      <end_time>2026-12-10T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-11T09:00:00-05:00</start_time>
-      <end_time>2026-12-11T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-12T09:00:00-05:00</start_time>
-      <end_time>2026-12-12T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-13T09:00:00-05:00</start_time>
-      <end_time>2026-12-13T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-14T09:00:00-05:00</start_time>
-      <end_time>2026-12-14T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-15T09:00:00-05:00</start_time>
-      <end_time>2026-12-15T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-16T09:00:00-05:00</start_time>
-      <end_time>2026-12-16T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-17T09:00:00-05:00</start_time>
-      <end_time>2026-12-17T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-18T09:00:00-05:00</start_time>
-      <end_time>2026-12-18T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-19T09:00:00-05:00</start_time>
-      <end_time>2026-12-19T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-20T09:00:00-05:00</start_time>
-      <end_time>2026-12-20T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-21T09:00:00-05:00</start_time>
-      <end_time>2026-12-21T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-22T09:00:00-05:00</start_time>
-      <end_time>2026-12-22T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-23T09:00:00-05:00</start_time>
-      <end_time>2026-12-23T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-24T09:00:00-05:00</start_time>
-      <end_time>2026-12-24T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-26T09:00:00-05:00</start_time>
-      <end_time>2026-12-26T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-27T09:00:00-05:00</start_time>
-      <end_time>2026-12-27T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-28T09:00:00-05:00</start_time>
-      <end_time>2026-12-28T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-29T09:00:00-05:00</start_time>
-      <end_time>2026-12-29T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-30T09:00:00-05:00</start_time>
-      <end_time>2026-12-30T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-31T09:00:00-05:00</start_time>
-      <end_time>2026-12-31T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2027-01-01T09:00:00-05:00</start_time>
       <end_time>2027-01-01T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -5074,186 +4492,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-12-01T09:00:00-05:00</start_time>
-      <end_time>2026-12-01T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-02T09:00:00-05:00</start_time>
-      <end_time>2026-12-02T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-03T09:00:00-05:00</start_time>
-      <end_time>2026-12-03T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-04T09:00:00-05:00</start_time>
-      <end_time>2026-12-04T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-05T09:00:00-05:00</start_time>
-      <end_time>2026-12-05T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-06T09:00:00-05:00</start_time>
-      <end_time>2026-12-06T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-07T09:00:00-05:00</start_time>
-      <end_time>2026-12-07T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-08T09:00:00-05:00</start_time>
-      <end_time>2026-12-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-09T09:00:00-05:00</start_time>
-      <end_time>2026-12-09T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-10T09:00:00-05:00</start_time>
-      <end_time>2026-12-10T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-11T09:00:00-05:00</start_time>
-      <end_time>2026-12-11T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-12T09:00:00-05:00</start_time>
-      <end_time>2026-12-12T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-13T09:00:00-05:00</start_time>
-      <end_time>2026-12-13T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-14T09:00:00-05:00</start_time>
-      <end_time>2026-12-14T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-15T09:00:00-05:00</start_time>
-      <end_time>2026-12-15T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-16T09:00:00-05:00</start_time>
-      <end_time>2026-12-16T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-17T09:00:00-05:00</start_time>
-      <end_time>2026-12-17T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-18T09:00:00-05:00</start_time>
-      <end_time>2026-12-18T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-19T09:00:00-05:00</start_time>
-      <end_time>2026-12-19T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-20T09:00:00-05:00</start_time>
-      <end_time>2026-12-20T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-21T09:00:00-05:00</start_time>
-      <end_time>2026-12-21T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-22T09:00:00-05:00</start_time>
-      <end_time>2026-12-22T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-23T09:00:00-05:00</start_time>
-      <end_time>2026-12-23T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-24T09:00:00-05:00</start_time>
-      <end_time>2026-12-24T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-26T09:00:00-05:00</start_time>
-      <end_time>2026-12-26T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-27T09:00:00-05:00</start_time>
-      <end_time>2026-12-27T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-28T09:00:00-05:00</start_time>
-      <end_time>2026-12-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-29T09:00:00-05:00</start_time>
-      <end_time>2026-12-29T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-30T09:00:00-05:00</start_time>
-      <end_time>2026-12-30T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-31T09:00:00-05:00</start_time>
-      <end_time>2026-12-31T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2027-01-01T09:00:00-05:00</start_time>
       <end_time>2027-01-01T11:00:00-05:00</end_time>
@@ -5460,186 +4698,6 @@
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-12-01T09:00:00-05:00</start_time>
-      <end_time>2026-12-01T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-02T09:00:00-05:00</start_time>
-      <end_time>2026-12-02T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-03T09:00:00-05:00</start_time>
-      <end_time>2026-12-03T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-04T09:00:00-05:00</start_time>
-      <end_time>2026-12-04T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-05T09:00:00-05:00</start_time>
-      <end_time>2026-12-05T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-06T09:00:00-05:00</start_time>
-      <end_time>2026-12-06T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-07T09:00:00-05:00</start_time>
-      <end_time>2026-12-07T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-08T09:00:00-05:00</start_time>
-      <end_time>2026-12-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-09T09:00:00-05:00</start_time>
-      <end_time>2026-12-09T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-10T09:00:00-05:00</start_time>
-      <end_time>2026-12-10T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-11T09:00:00-05:00</start_time>
-      <end_time>2026-12-11T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-12T09:00:00-05:00</start_time>
-      <end_time>2026-12-12T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-13T09:00:00-05:00</start_time>
-      <end_time>2026-12-13T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-14T09:00:00-05:00</start_time>
-      <end_time>2026-12-14T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-15T09:00:00-05:00</start_time>
-      <end_time>2026-12-15T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-16T09:00:00-05:00</start_time>
-      <end_time>2026-12-16T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-17T09:00:00-05:00</start_time>
-      <end_time>2026-12-17T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-18T09:00:00-05:00</start_time>
-      <end_time>2026-12-18T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-19T09:00:00-05:00</start_time>
-      <end_time>2026-12-19T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-20T09:00:00-05:00</start_time>
-      <end_time>2026-12-20T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-21T09:00:00-05:00</start_time>
-      <end_time>2026-12-21T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-22T09:00:00-05:00</start_time>
-      <end_time>2026-12-22T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-23T09:00:00-05:00</start_time>
-      <end_time>2026-12-23T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-24T09:00:00-05:00</start_time>
-      <end_time>2026-12-24T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-26T09:00:00-05:00</start_time>
-      <end_time>2026-12-26T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-27T09:00:00-05:00</start_time>
-      <end_time>2026-12-27T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-28T09:00:00-05:00</start_time>
-      <end_time>2026-12-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-29T09:00:00-05:00</start_time>
-      <end_time>2026-12-29T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-30T09:00:00-05:00</start_time>
-      <end_time>2026-12-30T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-31T09:00:00-05:00</start_time>
-      <end_time>2026-12-31T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2027-01-01T09:00:00-05:00</start_time>
       <end_time>2027-01-01T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -5845,186 +4903,6 @@
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-12-01T09:00:00-05:00</start_time>
-      <end_time>2026-12-01T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-02T09:00:00-05:00</start_time>
-      <end_time>2026-12-02T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-03T09:00:00-05:00</start_time>
-      <end_time>2026-12-03T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-04T09:00:00-05:00</start_time>
-      <end_time>2026-12-04T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-05T09:00:00-05:00</start_time>
-      <end_time>2026-12-05T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-06T09:00:00-05:00</start_time>
-      <end_time>2026-12-06T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-07T09:00:00-05:00</start_time>
-      <end_time>2026-12-07T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-08T09:00:00-05:00</start_time>
-      <end_time>2026-12-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-09T09:00:00-05:00</start_time>
-      <end_time>2026-12-09T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-10T09:00:00-05:00</start_time>
-      <end_time>2026-12-10T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-11T09:00:00-05:00</start_time>
-      <end_time>2026-12-11T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-12T09:00:00-05:00</start_time>
-      <end_time>2026-12-12T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-13T09:00:00-05:00</start_time>
-      <end_time>2026-12-13T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-14T09:00:00-05:00</start_time>
-      <end_time>2026-12-14T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-15T09:00:00-05:00</start_time>
-      <end_time>2026-12-15T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-16T09:00:00-05:00</start_time>
-      <end_time>2026-12-16T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-17T09:00:00-05:00</start_time>
-      <end_time>2026-12-17T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-18T09:00:00-05:00</start_time>
-      <end_time>2026-12-18T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-19T09:00:00-05:00</start_time>
-      <end_time>2026-12-19T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-20T09:00:00-05:00</start_time>
-      <end_time>2026-12-20T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-21T09:00:00-05:00</start_time>
-      <end_time>2026-12-21T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-22T09:00:00-05:00</start_time>
-      <end_time>2026-12-22T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-23T09:00:00-05:00</start_time>
-      <end_time>2026-12-23T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-24T09:00:00-05:00</start_time>
-      <end_time>2026-12-24T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-26T09:00:00-05:00</start_time>
-      <end_time>2026-12-26T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-27T09:00:00-05:00</start_time>
-      <end_time>2026-12-27T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-28T09:00:00-05:00</start_time>
-      <end_time>2026-12-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-29T09:00:00-05:00</start_time>
-      <end_time>2026-12-29T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-30T09:00:00-05:00</start_time>
-      <end_time>2026-12-30T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-31T09:00:00-05:00</start_time>
-      <end_time>2026-12-31T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2027-01-01T09:00:00-05:00</start_time>
       <end_time>2027-01-01T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -6229,186 +5107,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-corpus</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-12-01T09:00:00-05:00</start_time>
-      <end_time>2026-12-01T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-02T09:00:00-05:00</start_time>
-      <end_time>2026-12-02T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-03T09:00:00-05:00</start_time>
-      <end_time>2026-12-03T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-04T09:00:00-05:00</start_time>
-      <end_time>2026-12-04T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-05T09:00:00-05:00</start_time>
-      <end_time>2026-12-05T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-06T09:00:00-05:00</start_time>
-      <end_time>2026-12-06T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-07T09:00:00-05:00</start_time>
-      <end_time>2026-12-07T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-08T09:00:00-05:00</start_time>
-      <end_time>2026-12-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-09T09:00:00-05:00</start_time>
-      <end_time>2026-12-09T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-10T09:00:00-05:00</start_time>
-      <end_time>2026-12-10T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-11T09:00:00-05:00</start_time>
-      <end_time>2026-12-11T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-12T09:00:00-05:00</start_time>
-      <end_time>2026-12-12T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-13T09:00:00-05:00</start_time>
-      <end_time>2026-12-13T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-14T09:00:00-05:00</start_time>
-      <end_time>2026-12-14T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-15T09:00:00-05:00</start_time>
-      <end_time>2026-12-15T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-16T09:00:00-05:00</start_time>
-      <end_time>2026-12-16T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-17T09:00:00-05:00</start_time>
-      <end_time>2026-12-17T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-18T09:00:00-05:00</start_time>
-      <end_time>2026-12-18T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-19T09:00:00-05:00</start_time>
-      <end_time>2026-12-19T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-20T09:00:00-05:00</start_time>
-      <end_time>2026-12-20T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-21T09:00:00-05:00</start_time>
-      <end_time>2026-12-21T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-22T09:00:00-05:00</start_time>
-      <end_time>2026-12-22T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-23T09:00:00-05:00</start_time>
-      <end_time>2026-12-23T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-24T09:00:00-05:00</start_time>
-      <end_time>2026-12-24T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-26T09:00:00-05:00</start_time>
-      <end_time>2026-12-26T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-27T09:00:00-05:00</start_time>
-      <end_time>2026-12-27T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-28T09:00:00-05:00</start_time>
-      <end_time>2026-12-28T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-29T09:00:00-05:00</start_time>
-      <end_time>2026-12-29T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-30T09:00:00-05:00</start_time>
-      <end_time>2026-12-30T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
-      <start_time>2026-12-31T09:00:00-05:00</start_time>
-      <end_time>2026-12-31T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2027-01-01T09:00:00-05:00</start_time>
       <end_time>2027-01-01T11:00:00-05:00</end_time>
@@ -6615,12 +5313,6 @@
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -7137,12 +5829,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -7661,12 +6347,6 @@
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -8183,12 +6863,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -8707,12 +7381,6 @@
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -9230,12 +7898,6 @@
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -9752,12 +8414,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-kingwood</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -10276,12 +8932,6 @@
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -10798,12 +9448,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -11322,12 +9966,6 @@
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -11844,12 +10482,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -12368,12 +11000,6 @@
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -12891,12 +11517,6 @@
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -13413,12 +12033,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-conroe</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -19075,12 +17689,6 @@
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -19597,12 +18205,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -20121,12 +18723,6 @@
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -20643,12 +19239,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -21167,12 +19757,6 @@
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -21690,12 +20274,6 @@
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -22212,12 +20790,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-houston-north</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -22736,12 +21308,6 @@
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -23258,12 +21824,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -23782,12 +22342,6 @@
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -24304,12 +22858,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -24828,12 +23376,6 @@
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -25351,12 +23893,6 @@
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -25873,12 +24409,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-clearlake</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -26397,12 +24927,6 @@
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -26919,12 +25443,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -27443,12 +25961,6 @@
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -27965,12 +26477,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -28489,12 +26995,6 @@
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -29012,12 +27512,6 @@
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -29534,12 +28028,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-fortworth</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -30058,12 +28546,6 @@
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -30580,12 +29062,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -31104,12 +29580,6 @@
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -31626,12 +30096,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -32150,12 +30614,6 @@
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -32673,12 +31131,6 @@
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -33195,12 +31647,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-benbrook</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -33719,12 +32165,6 @@
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -34241,12 +32681,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -34765,12 +33199,6 @@
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -35287,12 +33715,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -35811,12 +34233,6 @@
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -36334,12 +34750,6 @@
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -36856,12 +35266,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-dallas</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -37380,12 +35784,6 @@
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>bls-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -37902,12 +36300,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>acls-heartcode-complete</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
@@ -38426,12 +36818,6 @@
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>pals-heartcode-complete</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T10:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T10:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -38948,12 +37334,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>acls-bls-complete-combo</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
@@ -39472,12 +37852,6 @@
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>bls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -39995,12 +38369,6 @@
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>acls-pals-complete-combo</service_id>
     <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
-    <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
       <spots_open>1</spots_open>
@@ -40517,12 +38885,6 @@
   <ServiceAvailability>
     <merchant_id>cprlabs-carrollton</merchant_id>
     <service_id>bls-pals-acls-complete-bundle</service_id>
-    <availability>
-      <start_time>2026-11-08T09:00:00-05:00</start_time>
-      <end_time>2026-11-08T11:00:00-05:00</end_time>
-      <spots_open>1</spots_open>
-      <spots_total>1</spots_total>
-    </availability>
     <availability>
       <start_time>2026-11-09T09:00:00-05:00</start_time>
       <end_time>2026-11-09T11:00:00-05:00</end_time>
